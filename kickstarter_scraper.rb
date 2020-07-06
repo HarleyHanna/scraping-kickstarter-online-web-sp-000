@@ -11,7 +11,7 @@ def create_project_hash
   #titles: project.css("h2.bbcard_name strong a").text 
   #project.css("div.project-thumbnail a img").attribute("src").value
   #project.css("p.bbcard_blurb").text
-  #project.css("ul.li.a data-location name").text
+  #project.css("ul.project meta li a.data-location.name").text
   
 end
 
