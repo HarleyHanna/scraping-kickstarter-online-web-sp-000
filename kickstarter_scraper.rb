@@ -12,6 +12,7 @@ def create_project_hash
   #project.css("div.project-thumbnail a img").attribute("src").value
   #project.css("p.bbcard_blurb").text
   #project.css("ul.li.a data-location name").text
+  
 end
 
 
